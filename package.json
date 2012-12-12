@@ -1,16 +1,17 @@
 {
   "name": "deployment-test",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "private": true,
   "scripts": {
-    "start": "node app"
+    "devStart": "node app",
+    "start": "app.js"
   },
   "dependencies": {
     "express": "3.0.4",
     "jade": "*"
   },
-	"subdomain": "test-deploy",
-	"engines": {
-		"node": "0.8.x"
-	}
+  "subdomain": "test-deploy",
+  "engines": {
+    "node": "0.8.x"
+  }
 }
