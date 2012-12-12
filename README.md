@@ -1,4 +1,4 @@
-[![Nodejitsu Deploy Status Badges](http://webhooks.jit.su/tmartineau/deployment-test.png)](https://webops.jit.su#tmartineau/webhooks)
+[![Nodejitsu Deploy Status Badges](http://webhooks.jit.su/tmartineau/nodejitsu-deployment-test.png)](https://webops.jit.su#tmartineau/webhooks)
 
 nodejitsu-deployment-test
 =========================
