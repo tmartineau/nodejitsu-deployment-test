@@ -3,7 +3,6 @@
   "version": "0.0.1-2",
   "private": true,
   "scripts": {
-    "devStart": "node app",
     "start": "app.js"
   },
   "dependencies": {
@@ -13,5 +12,13 @@
   "subdomain": "test-deploy",
   "engines": {
     "node": "0.8.x"
+  },
+  "jam": {
+    "packageDir": "public/vendor",
+    "baseUrl": "public",
+    "dependencies": {}
+  },
+  "devDependencies": {
+    "nodemon": "~0.6.23"
   }
 }

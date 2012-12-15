@@ -1,5 +1,7 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to continuous deployment.... this time maybe... I THINK I GOT IT!!!
+  #main
+      form#add-name
+          input#name(name="name", placeholder="Enter a new name")
+          button(type="submit") Add Name
