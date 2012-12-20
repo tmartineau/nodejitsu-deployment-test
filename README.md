@@ -3,4 +3,4 @@
 nodejitsu-deployment-test
 =========================
 
-This was created in order to try out the Nodejitsu deployment from Github. I will keep it afterwards as an example ofa backbone app using require.js installed using the Jam package manager.
+This was created in order to try out the Nodejitsu deployment from Github. I will keep it afterwards as an example of a backbone app using require.js installed using the Jam package manager.
