@@ -3,4 +3,4 @@
 nodejitsu-deployment-test
 =========================
 
-Test application for trying out the Nodejitsu continuous deployment.
+This was created in order to try out the Nodejitsu deployment from Github. I will keep it afterwards as an example ofa backbone app using require.js installed using the Jam package manager.
